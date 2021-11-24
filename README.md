@@ -1,1 +1,1 @@
-# subd
+# короче надо открыть файл BD.sln с помощью Visual Studio (не Code)

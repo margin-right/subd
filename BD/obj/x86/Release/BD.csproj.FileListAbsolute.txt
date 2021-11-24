@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\BD\BD\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\BD\BD\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\BD\BD\obj\x86\Release\BD.csproj.GenerateResource.Cache
